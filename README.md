@@ -12,6 +12,8 @@ A network security honeypot that lures attackers, logs their activity, and sends
 - Sends **real-time email alerts** when an intrusion attempt is detected
 - Provides a **dashboard** to visualize attack data
 
+![Workflow](network_security_project.jpeg)
+
 ---
 
 ## 📁 Folder Structure
