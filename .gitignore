@@ -1,0 +1,13 @@
+# Environment variables - NEVER commit this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (contains real attack data)
+database/attacks.db
+
+# Node modules (too large, auto-generated)
+dashboard/node_modules/
